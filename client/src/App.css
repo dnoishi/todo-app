@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", serif;
+  background: linear-gradient(to right, #e67e22, #e74c3c);
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+  
+}
+
+.main {
+  margin: auto;
+  width: 400px;
+}
+
+.input{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
